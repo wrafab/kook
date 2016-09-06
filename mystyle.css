@@ -1,0 +1,43 @@
+body{
+/*background-color:#4A60D7; margin-left:10px;*/
+background-image:url("images/background.png");
+background-attachment: fixed;
+background-size: cover;
+
+
+}
+p{color:blue;}
+div#navigation {
+padding-left: 34%;
+}
+
+div#navigation ul {
+list-style-type: none;
+}
+div#navigation ul li{
+float:left;
+}
+div#navigation ul li a {
+padding: 20px;
+text-decoration: none; /*no underline*/
+color: #00733C;
+border: 3px, outset;
+text-align: center;
+/*background-color: ;*/
+} 
+
+div#header{
+	text-align:center;
+}
+
+#content{
+	text-align:center;
+	}
+#content ul{
+	list-style-type:none;
+	}
+	
+#content table{
+	margin-left:auto; margin-right:auto;
+	}
+
