@@ -1,12 +1,12 @@
 body{
 /*background-color:#4A60D7; margin-left:10px;*/
-background-image:url("images/background.png");
+background-image:url("image/background.png");
 background-attachment: fixed;
 background-size: cover;
 
 
 }
-p{color:blue;}
+p{color:lightsteelblue;}
 div#navigation {
 padding-left: 34%;
 }
