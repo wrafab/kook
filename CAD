@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Katy's website</title>
+	<!-- This is a comment -->
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" type="image/ico" href="images/fav icon.ico"/>
+	<style>
+body {background-color: black;}
+</style>
+</head>
+
+<body>
+		<div id="navigation">
+		<ul>
+			<li><a href="aboutme.html">Aboutme</a></li>
+			<li><a href="marshmellow.html">marshmellow</a></li>
+			<li><a href="CAD.html">CAD Computer Aided Design</a></li>
+		</ul>
+	</div>
+	<br>
+	<hr>
+	<br>
+	<br>
+	<div style="text-align:center;">
+	<p style="color:white;font-family:Geneva;font-size:30px"> 3D Designing using Autodesk Fusion 360</p>
+	</div>
+	
+	<div style="text-align:center;margin:100px">
+	<p style="color:white;font-family:Geneva;font-size:20px">
+	The task was to design an enclosure for an Arduino Uno.
+		<br>
+		<br>
+	First thing to do was to create a sketch.
+	I created a sketch for each of the top cover part and the bottom part.
+	I first thought about the connecting part of the top and bottom before I started sketching.
+	I wanted some holes on the bottom and also a groove on both sides of the case to make it easier to open the case.
+		I wanted everything to stay in a perfect dimension, so I added a lot of sketch dimensions.
+
+	<br>
+				<img src="UNOsketch.PNG" alt="UNO Sketch" style="width:580px;height:470px;">
+				<br>
+				<br>
+					<img src="handsketch.PNG" alt="Hand Sketch" style="width:580px;height:470px;">
+        <br>
+        
+				
+				
+
+		<br>
+		<br>
+		<br>
+		<br>
+		This is our result!
+		<br>
+		<br>
+			<img src="marshmellowteam.PNG" alt="marshmellow team" style="width:470px;height:580px;">
+	</div>
+Contact GitHub API Training Shop Blog About
