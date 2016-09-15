@@ -9,6 +9,7 @@ background-size: cover;
 p{color:blue;}
 div#navigation {
 padding-left: 10%;
+background-color:black;
 }
 
 div#navigation ul {
