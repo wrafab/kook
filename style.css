@@ -9,17 +9,22 @@ background-size: cover;
 p{color:black;}
 div#navigation {
 padding-left: 10%;
+padding-
 background-color:black;
 }
 
 div#navigation ul {
 list-style-type: none;
+font-family:verdana;
+font-size:20px;
+color:black;
+line-height: 170%;
 }
 div#navigation ul li{
 float:left;
 }
 div#navigation ul li a {
-padding: 20px;
+padding: 15px;
 text-decoration: none; /*no underline*/
 color: white;
 border: 3px, outset;
