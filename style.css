@@ -1,15 +1,13 @@
-body{
-/*background-color:#4A60D7; margin-left:10px;*/
-<!--background-image:url("solid background.png");
-background-attachment: fixed;
-background-size: cover;
--->
 
-}
-p{color:black;}
 div#navigation {
 padding-left: 10%;
-padding-
+background-color:black;
+float: center;
+max-width: 470px;
+margin-right: 20px;
+margin-left: 4px;
+margin-top: 20px;
+padding: 1em;
 background-color:black;
 }
 
@@ -19,9 +17,14 @@ font-family:verdana;
 font-size:20px;
 color:black;
 line-height: 110%;
+padding: 0;
+color:black;
 }
 div#navigation ul li{
 float:left;
+margin-bottom: 40px;
+background-color:#185095;
+text-decoration: none;
 }
 div#navigation ul li a {
 padding: 15px;
@@ -33,8 +36,15 @@ text-align: center;
 /*background-color: ;*/
 } 
 
-div#header{
+header{
 	text-align:center;
+   	background-color:white;
+   	color:black;
+   	font-family:"open-sans-condensed", sans-serif
+    	padding:0px;	 
+}
+
+body {background-color: White;
 }
 
 #content{
@@ -70,3 +80,11 @@ a:active {
     text-decoration: none;
 }
 </div>
+
+h1 {font-size=60px;font-family:verdana;color:black;text-align:center;}
+h2 {font-size=35px;font-family:verdana;color:black;text-align:center;}
+h3 {font-size=35px;font-family:verdana;color:black;text-align:center;}
+p {color:black;font-family:Geneva;font-size:20px}
+a {font-family:verdana;font-size:100%;}
+
+
