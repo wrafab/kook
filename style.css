@@ -18,7 +18,7 @@ list-style-type: none;
 font-family:verdana;
 font-size:20px;
 color:black;
-line-height: 170%;
+line-height: 110%;
 }
 div#navigation ul li{
 float:left;
@@ -61,7 +61,7 @@ a:visited {
 }
 a:hover {
     color: black;
-    background-color:#3679D5;
+    background-color:#955F06;
     text-decoration: none;
 }
 a:active {
