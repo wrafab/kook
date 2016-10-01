@@ -50,12 +50,12 @@ div#header{
 
 <div#navigation>
 a:link {
-    color: #185095;
+    color: black;
     background-color: black;
     text-decoration: none;
 }
 a:visited {
-    color: #185095;
+    color: black;
     background-color: black;
     text-decoration: none;
 }
@@ -65,7 +65,7 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: #185095;
+    color: black;
     background-color: black;
     text-decoration: none;
 }
